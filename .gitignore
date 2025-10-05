@@ -1,3 +1,4 @@
 .venv/
 vault_pass.txt
 .python-version
+keys/ansible-key.pem
